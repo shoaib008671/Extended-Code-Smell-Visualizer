@@ -1,0 +1,30 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package com.tool.csv;
+
+/**
+ *
+ * @author Saad
+ */
+public class abcd {
+    int saad=0;
+    float f ;
+    double naveed;  
+    int saad1;
+    int naveed1;
+    int shakeeel1;
+    int hammad;
+    int hammad1;
+    int my ;
+    int saadlove;
+    int lov2;
+    int love3;
+    int love5;
+    int love6;
+    int love7;
+    
+}
